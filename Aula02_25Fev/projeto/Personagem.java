@@ -11,6 +11,10 @@ public class Personagem {
         qtde = 0;
     }
 
+    public String getNome() {
+        return nome;
+    }
+    
     public void addSuperpoder(Superpoder sp) {
         if(qtde<10) {
             poderes[qtde] = sp;
@@ -18,6 +22,12 @@ public class Personagem {
         } else {
             System.out.println("Lista cheia!");
         }
+    }
+
+    public Superpoder getPoderAleatorio() {
+        int num = (int) (Math.random()*10);
+        num = num % qtde;
+        return poderes[num];
     }
 
     public void imprime() {
