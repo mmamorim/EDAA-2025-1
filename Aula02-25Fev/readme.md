@@ -17,14 +17,14 @@ Na lista abaixo são citados alguns super-heróis e alguns vilões, dos quais in
 1. Construir uma classe chamada Superpoder contendo: 
    - Atributos: 
      - nome: String
-     - poder: int
+     - forca: int
    - Métodos:
      - getNome() : retorna o nome do poder
-     - getPoder() : retorna o poder
+     - getForca() : retorna a força do poder
      - imprime() : imprime os valores dos atributos
      - Construtor
-        - ```Superpoder(String nome, int poder)``` 
-        Recebe o nome do poder e valor e inicializa valores dos atributos.
+        - ```Superpoder(String nome, int forca)``` 
+        Recebe o nome do poder e força e inicializa valores dos atributos.
   
 2. Construir uma classe denominada Personagem contendo:
    - Atributos: 
