@@ -3,12 +3,29 @@
 public class Prog {
     public static void main(String[] args) {
         
-        System.out.println("oi gente");
 
         Superpoder sp = new Superpoder("Soltar teia",2);
-        sp.imprime();
+        //sp.imprime();
 
-        Superpoder sp1 = new Superpoder("Visão Laser",3);
-        sp1.imprime();
+        Personagem flash = new Personagem("Flash","Barry Alen");
+
+        flash.addSuperpoder(sp);
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.addSuperpoder(new Superpoder("velocidade", 5));
+        flash.imprime();
     }    
 }
