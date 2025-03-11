@@ -31,5 +31,17 @@ public class Stack {
             return info[pos];    
         }
         System.out.println("Stack empty!!!!");
+        return 0;
+    }
+
+    public void show() {
+        System.out.print("[");
+        for(int i=0; i<pos; i++) {
+            System.out.print(info[i]);
+            if(i<pos-1) {
+                System.out.print(",");
+            }
+        }
+        System.out.println("]");
     }
 }
