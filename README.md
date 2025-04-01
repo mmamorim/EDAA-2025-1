@@ -9,3 +9,5 @@
 * [Aula 03](./Aula03_11Mar/) (11/03) - Pilhas (Alocação Estática) 
 * [Aula 04](./Aula04_18Mar/) (18/03) - Filas (Alocação Estática)
 * Aula05 (25/03) Tech Week IX [link](https://animatechweek.com.br/)
+* [Aula 06](./Aula06_01Abr/) (01/04) - Análise de Algoritmos
+  - Crescimento Assintótico de Funções
