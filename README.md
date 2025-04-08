@@ -11,3 +11,10 @@
 * Aula05 (25/03) Tech Week IX [link](https://animatechweek.com.br/)
 * [Aula 06](./Aula06_01Abr/) (01/04) - Análise de Algoritmos
   - Crescimento Assintótico de Funções
+* [Aula 07](./Aula07_08Abr/) (08/04) - Busca e Ordenação
+  - Busca Sequencial
+  - Busca Binária
+  - Ordenação Bolha
+  - Ordenação Seleção
+  - Ordenação Inserção
+  - Estabilidade na Ordenação
