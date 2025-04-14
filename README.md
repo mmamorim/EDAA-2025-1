@@ -14,6 +14,8 @@
 * [Aula 07](./Aula07_08Abr/) (08/04) - Busca e Ordenação
   - Busca Sequencial
   - Busca Binária
+* [Aula 08](./Aula08_15Abr/) (15/04) - Aula Busca Ativa
+  - [Atividade](./Aula08_15Abr)
   - Ordenação Bolha
   - Ordenação Seleção
   - Ordenação Inserção
