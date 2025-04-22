@@ -20,3 +20,8 @@
   - Ordenação Seleção
   - Ordenação Inserção
   - Estabilidade na Ordenação
+* [Aula 09](./Aula09_22Abr/) (22/04) 
+  - Ordenação Bolha
+  - Ordenação Seleção
+  - Ordenação Inserção
+  - Estabilidade na Ordenação
