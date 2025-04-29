@@ -25,3 +25,6 @@
   - Ordenação Seleção
   - Ordenação Inserção
   - Estabilidade na Ordenação
+* [Aula 10](./Aula10_29Abr/) (29/04) 
+  - Ordenação MergeSort
+  - Ordenação QuickSort
