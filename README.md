@@ -6,7 +6,7 @@
 
 * Aula 01 (18/02) - Apresentação da UC
 * [Aula 02](./Aula02_25Fev/) (25/02) - Super-Heróis e Vilões - Atividade 
-* (04/03) CARNAVAL
+* **(04/03) CARNAVAL**
 * [Aula 03](./Aula03_11Mar/) (11/03) - Pilhas (Alocação Estática) 
 * [Aula 04](./Aula04_18Mar/) (18/03) - Filas (Alocação Estática)
 * Aula05 (25/03) Tech Week IX [link](https://animatechweek.com.br/)
@@ -29,3 +29,7 @@
 * [Aula 10](./Aula10_29Abr/) (29/04) 
   - Ordenação MergeSort
   - Ordenação QuickSort
+* **(06/05) AVALIAÇÃO A1**
+* [Aula 11](./Aula11_13Mai/) (13/05) 
+  - Alocação dinâmica de memória 
+  - Pilhas / Filas / Listas (encadeadas)
